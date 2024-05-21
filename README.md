@@ -1,1 +1,1 @@
-[Мой бэкэнд](https://pindie-backend-yatklngy.nomoredomainswork.ru)
+[Мой бэкэнд](https://portal.game.pindie.nomoredomainswork.ru/)
